@@ -1,3 +1,27 @@
 body {
     background: hsl(30, 91%, 53%);
 }
+
+p {
+    background: white;
+}
+
+#ptag {
+    background: pink;
+}
+
+.ptag2 {
+    background: yellow;
+    color: green
+}
+
+.link {
+    background: blue;
+    color: white;
+}
+
+.image {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
